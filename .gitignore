@@ -1,0 +1,12 @@
+# Caches and logs
+.cache
+*.log
+
+# Virtual environment
+venv/
+*.venv
+env/
+
+# Operating system files
+.DS_Store
+Thumbs.db
